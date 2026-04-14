@@ -1,0 +1,8 @@
+{
+  "name": "CertiVerify AI",
+  "description": "A comprehensive Certificate Verification System with AI-powered analysis, automated generation, and secure administration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
